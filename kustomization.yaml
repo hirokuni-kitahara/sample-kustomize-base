@@ -1,0 +1,5 @@
+commonLabels:
+  base: sample-kustomize-base
+resources:
+- base-configmap.yaml
+
